@@ -8,7 +8,6 @@ modify / replace / remove / add something in the video.
 1. Generate a video (or import a public video URL). Under **Reference media**, use the ＋ tiles to add reference media.
    Limits depend on the model: **Seedance 2.5** takes up to 30 images, 10 videos (30s combined) and 10 audio clips
    (30s combined). **Seedance 2.0 / fast / mini** take 9 images, 3 videos and 3 audio clips. Refer to them in the prompt as "Image 1", "Video 1", "Audio 1".
-   Files are hosted in your TOS bucket. Without TOS, images are sent inline and video/audio uploads are disabled.
 2. Pick it from the library; thumbnails are extracted from the video. Click one (or scrub the player and
    press **Use current player frame**).
 3. Draw over the object with the brush, box or circle tools.
