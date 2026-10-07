@@ -1,0 +1,10 @@
+byteplus-python-sdk-v2[ark]
+fastapi
+uvicorn[standard]
+python-dotenv
+httpx
+sniffio
+anyio
+distro
+python-multipart
+tos
